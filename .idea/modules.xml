@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Destini-Android.iml" filepath="$PROJECT_DIR$/Destini-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/destini-android-manjunath2412.iml" filepath="$PROJECT_DIR$/destini-android-manjunath2412.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intermediatejava/intermediatejava.iml" filepath="$PROJECT_DIR$/intermediatejava/intermediatejava.iml" />
     </modules>
   </component>
 </project>
